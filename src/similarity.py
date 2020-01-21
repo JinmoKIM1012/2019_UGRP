@@ -14,4 +14,4 @@ def jw_sim(test_str, check_str):
 
 
 def sim(test_str, check_str):
-    return (lv_sim(test_str, check_str) +  hm_sim(test_str, check_str) + jw_sim(test_str, check_str)) / 3
+    return (lv_sim(test_str, check_str) + hm_sim(test_str, check_str) + jw_sim(test_str, check_str)) / 3
